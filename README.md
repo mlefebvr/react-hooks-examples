@@ -1,32 +1,32 @@
 # react-hooks-examples
 Examples for each of the different react hooks
 
-[useState](https://github.com/mlefebvr/react-hooks-examples/usestate):
+[useState](https://github.com/mlefebvr/react-hooks-examples/tree/main/usestate):
 **To do**
 
-[useEffect](https://github.com/mlefebvr/react-hooks-examples/useeffect):
+[useEffect](https://github.com/mlefebvr/react-hooks-examples/tree/main/useeffect):
 **To do**
 
-[useRef](https://github.com/mlefebvr/react-hooks-examples/useref):
+[useRef](https://github.com/mlefebvr/react-hooks-examples/tree/main/useref):
 **To do**
 
-[useCallback](https://github.com/mlefebvr/react-hooks-examples/usecallback):
+[useCallback](https://github.com/mlefebvr/react-hooks-examples/tree/main/usecallback):
 **To do**
 
-[useContext](https://github.com/mlefebvr/react-hooks-examples/usecontext):
+[useContext](https://github.com/mlefebvr/react-hooks-examples/tree/main/usecontext):
 **To do**
 
-[useMemo](https://github.com/mlefebvr/react-hooks-examples/usememo):
+[useMemo](https://github.com/mlefebvr/react-hooks-examples/tree/main/usememo):
 **To do**
 
-[useReducer](https://github.com/mlefebvr/react-hooks-examples/usereducer):
+[useReducer](https://github.com/mlefebvr/react-hooks-examples/tree/main/usereducer):
 **To do**
 
-[useDebugValue](https://github.com/mlefebvr/react-hooks-examples/usedebugvalue):
+[useDebugValue](https://github.com/mlefebvr/react-hooks-examples/tree/main/usedebugvalue):
 **To do**
 
-[useImperativeHandle](https://github.com/mlefebvr/react-hooks-examples/useimperativehandle):
+[useImperativeHandle](https://github.com/mlefebvr/react-hooks-examples/tree/main/useimperativehandle):
 **To do**
 
-[useLayoutEffect](https://github.com/mlefebvr/react-hooks-examples/uselayouteffect):
+[useLayoutEffect](https://github.com/mlefebvr/react-hooks-examples/tree/main/uselayouteffect):
 **To do**
